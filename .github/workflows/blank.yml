@@ -34,3 +34,4 @@ jobs:
         run: |
           echo Add other actions to build,
           echo test, and deploy your project.
+[![CI](https://github.com/amir4q/amir4q/actions/workflows/blank.yml/badge.svg)](https://github.com/amir4q/amir4q/actions/workflows/blank.yml)
